@@ -10,3 +10,7 @@ The main news page: https://harris.uchicago.edu/news-events/news
   * scrape_news: Scraping news from the main news page
   * scrape_napp: Scraping the podcast from Not Another Politics Podcast
   * scrap_public_money_pd: Scraping the podcast from Public Money Podcast
+
+## **Next Steps**
+1. Using lxml to scrape the entire article and build model based on that
+2. Using LLM APIs to predict the relevant policy area
